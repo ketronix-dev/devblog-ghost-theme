@@ -106,7 +106,7 @@ html,
     max-height: 700px;
     object-fit: cover;
     margin-bottom: 4vmin;
-    border-radius: 1em
+    border-radius: 2em
 }
 
 .gh-card-meta {
