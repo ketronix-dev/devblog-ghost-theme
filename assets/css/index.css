@@ -103,7 +103,7 @@ html,
 
 .gh-card-image {
     width: 100%;
-    max-height: 700px;
+    max-height: 300px;
     object-fit: cover;
     margin-bottom: 4vmin;
     border-radius: 2em
@@ -122,7 +122,7 @@ html,
 .gh-card-content {
     max-width: 720px;
     margin: 0 auto;
-    text-align: center;
+    text-align: justify;
     font-size: 1.6rem;
 }
 
