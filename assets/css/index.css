@@ -102,12 +102,14 @@ html,
 }
 
 .gh-card-image {
+    display: block;
     width: 70%;
-    max-height: 400px;
+    max-height: 450px;
     object-fit: cover;
-    margin-bottom: 4vmin;
-    border-radius: 2em
-}
+    margin: 0 auto 4vmin;
+    border-radius: 2em;
+  }
+  
 
 .gh-card-meta {
     display: block;
