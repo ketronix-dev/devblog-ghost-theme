@@ -137,15 +137,15 @@ figcaption strong {
 }
 
 .gh-canvas :not(pre) code {
-    vertical-align: middle;
-    padding: 0.15em 0.4em 0.15em;
-    border: #e1eaef 1px solid;
-    font-weight: 400 !important;
-    font-size: 0.9em;
-    line-height: 1em;
-    color: #f8f8f2;
-    background: #44475a;
-    border-radius: 0.25em;
+    background-color: transparent;
+    padding: 16px;
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.5;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    color: #c9d1d9;
   }
   
 
