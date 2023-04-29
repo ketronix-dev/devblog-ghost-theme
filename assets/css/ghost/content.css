@@ -143,10 +143,11 @@ figcaption strong {
     font-weight: 400 !important;
     font-size: 0.9em;
     line-height: 1em;
-    color: #dc0050;
-    background: #f0f6f9;
+    color: #f8f8f2;
+    background: #44475a;
     border-radius: 0.25em;
-}
+  }
+  
 
 
 /* стилі для кнопки копіювання */
