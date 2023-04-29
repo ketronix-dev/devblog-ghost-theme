@@ -137,11 +137,17 @@ figcaption strong {
 }
 
 .gh-canvas :not(pre) code {
-    position: relative;
-    overflow: hidden;
-    background-color: #1b1f23;
-    border-radius: 6px;
+    vertical-align: middle;
+    padding: 0.15em 0.4em 0.15em;
+    border: #e1eaef 1px solid;
+    font-weight: 400 !important;
+    font-size: 0.9em;
+    line-height: 1em;
+    color: #dc0050;
+    background: #f0f6f9;
+    border-radius: 0.25em;
 }
+
 
 /* стилі для кнопки копіювання */
 .copy-code-button {
@@ -163,11 +169,10 @@ figcaption strong {
 }
 
 .gh-canvas > pre {
-    overflow: scroll;
-    padding: 16px 20px;
-    background: rgba(255,255,255,0.8);
-    border-radius: 5px;
-    box-shadow: 0 2px 6px -2px rgba(0,0,0,.1), 0 0 1px rgba(0,0,0,.4);
+    position: relative;
+    overflow: hidden;
+    background-color: #1b1f23;
+    border-radius: 6px;
 }
 
 .kg-embed-card {
