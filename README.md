@@ -1,4 +1,4 @@
-[screenshot](assets/screenshot-desktop.jpg)
+![screenshot](assets/screenshot-desktop.jpg)
 
 ### Start development mode
 
